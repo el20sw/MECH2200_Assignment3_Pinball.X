@@ -63,7 +63,7 @@ void main(void) {
 }
 
 //*********************************************
-//display string error
+//Display String Error
 void DisplayStringError(unsigned int ErrorValue) {
     switch(ErrorValue)
     {
