@@ -5,6 +5,8 @@
  * Created on 12 May 2022, 18:51
  */
 
+//Git Test - SW
+
 #include "main.h"
 
 void main(void) {
