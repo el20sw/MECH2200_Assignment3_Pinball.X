@@ -8,10 +8,10 @@ Repository for MECH2200 Assignment 3 - Pinball
   - Stepper Motor Spins
   - Ball Return Sensor Senses
   - Scoring Sensors Sense
-  - Save Highscore
+  - Save Highscore (To look into)
   - Current Score
   - Music
-  - Display 
+  - Display
 - Testing Suite
   - Step through each feature with a way to validate that it is working
   - SPI testing send and recieve
